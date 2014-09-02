@@ -1,0 +1,10 @@
+{
+  "name": "poly-eth-test",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.0",
+    "jquery": "~1.11.1",
+    "poly-eth": "git://github.com/prashantpawar/poly-eth.git"
+  },
+  "devDependencies": {}
+}
